@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/heroes-of-the-universe/static/css/main.25b483b7.chunk.css",
+    "main.js": "/heroes-of-the-universe/static/js/main.68ee016c.chunk.js",
+    "main.js.map": "/heroes-of-the-universe/static/js/main.68ee016c.chunk.js.map",
+    "runtime-main.js": "/heroes-of-the-universe/static/js/runtime-main.5f25258e.js",
+    "runtime-main.js.map": "/heroes-of-the-universe/static/js/runtime-main.5f25258e.js.map",
+    "static/js/2.46b3b591.chunk.js": "/heroes-of-the-universe/static/js/2.46b3b591.chunk.js",
+    "static/js/2.46b3b591.chunk.js.map": "/heroes-of-the-universe/static/js/2.46b3b591.chunk.js.map",
+    "static/js/3.ac12532b.chunk.js": "/heroes-of-the-universe/static/js/3.ac12532b.chunk.js",
+    "static/js/3.ac12532b.chunk.js.map": "/heroes-of-the-universe/static/js/3.ac12532b.chunk.js.map",
+    "index.html": "/heroes-of-the-universe/index.html",
+    "static/css/main.25b483b7.chunk.css.map": "/heroes-of-the-universe/static/css/main.25b483b7.chunk.css.map",
+    "static/js/2.46b3b591.chunk.js.LICENSE.txt": "/heroes-of-the-universe/static/js/2.46b3b591.chunk.js.LICENSE.txt",
+    "static/media/back_ilustration.d8a542e5.png": "/heroes-of-the-universe/static/media/back_ilustration.d8a542e5.png",
+    "static/media/home.da2982f7.png": "/heroes-of-the-universe/static/media/home.da2982f7.png",
+    "static/media/logo.09309b9d.png": "/heroes-of-the-universe/static/media/logo.09309b9d.png",
+    "static/media/search.3eacbdb1.png": "/heroes-of-the-universe/static/media/search.3eacbdb1.png",
+    "static/media/search_error.528dcd7a.png": "/heroes-of-the-universe/static/media/search_error.528dcd7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f25258e.js",
+    "static/js/2.46b3b591.chunk.js",
+    "static/css/main.25b483b7.chunk.css",
+    "static/js/main.68ee016c.chunk.js"
+  ]
+}
