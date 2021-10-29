@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/hotu/static/css/main.f5801601.chunk.css",
-    "main.js": "/hotu/static/js/main.ba0919c0.chunk.js",
-    "main.js.map": "/hotu/static/js/main.ba0919c0.chunk.js.map",
+    "main.js": "/hotu/static/js/main.c9651472.chunk.js",
+    "main.js.map": "/hotu/static/js/main.c9651472.chunk.js.map",
     "runtime-main.js": "/hotu/static/js/runtime-main.2f3378d5.js",
     "runtime-main.js.map": "/hotu/static/js/runtime-main.2f3378d5.js.map",
-    "static/js/2.c63578ff.chunk.js": "/hotu/static/js/2.c63578ff.chunk.js",
-    "static/js/2.c63578ff.chunk.js.map": "/hotu/static/js/2.c63578ff.chunk.js.map",
+    "static/js/2.e60f8343.chunk.js": "/hotu/static/js/2.e60f8343.chunk.js",
+    "static/js/2.e60f8343.chunk.js.map": "/hotu/static/js/2.e60f8343.chunk.js.map",
     "static/js/3.ac12532b.chunk.js": "/hotu/static/js/3.ac12532b.chunk.js",
     "static/js/3.ac12532b.chunk.js.map": "/hotu/static/js/3.ac12532b.chunk.js.map",
     "index.html": "/hotu/index.html",
     "static/css/main.f5801601.chunk.css.map": "/hotu/static/css/main.f5801601.chunk.css.map",
-    "static/js/2.c63578ff.chunk.js.LICENSE.txt": "/hotu/static/js/2.c63578ff.chunk.js.LICENSE.txt",
+    "static/js/2.e60f8343.chunk.js.LICENSE.txt": "/hotu/static/js/2.e60f8343.chunk.js.LICENSE.txt",
     "static/media/404.c6378639.png": "/hotu/static/media/404.c6378639.png",
     "static/media/back_ilustration.d8a542e5.png": "/hotu/static/media/back_ilustration.d8a542e5.png",
     "static/media/home.da2982f7.png": "/hotu/static/media/home.da2982f7.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2f3378d5.js",
-    "static/js/2.c63578ff.chunk.js",
+    "static/js/2.e60f8343.chunk.js",
     "static/css/main.f5801601.chunk.css",
-    "static/js/main.ba0919c0.chunk.js"
+    "static/js/main.c9651472.chunk.js"
   ]
 }
